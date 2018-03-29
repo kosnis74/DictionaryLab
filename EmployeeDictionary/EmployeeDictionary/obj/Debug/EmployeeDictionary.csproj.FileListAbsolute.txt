@@ -1,0 +1,7 @@
+E:\EmployeeDictionary\EmployeeDictionary\bin\Debug\EmployeeDictionary.exe.config
+E:\EmployeeDictionary\EmployeeDictionary\bin\Debug\EmployeeDictionary.exe
+E:\EmployeeDictionary\EmployeeDictionary\bin\Debug\EmployeeDictionary.pdb
+E:\EmployeeDictionary\EmployeeDictionary\obj\Debug\EmployeeDictionary.csprojResolveAssemblyReference.cache
+E:\EmployeeDictionary\EmployeeDictionary\obj\Debug\EmployeeDictionary.csproj.CoreCompileInputs.cache
+E:\EmployeeDictionary\EmployeeDictionary\obj\Debug\EmployeeDictionary.exe
+E:\EmployeeDictionary\EmployeeDictionary\obj\Debug\EmployeeDictionary.pdb
